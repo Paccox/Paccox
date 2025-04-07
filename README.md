@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on:
     - Chipless RFID
-    - Antennas
 - 🌱 I’m interested in:
     - Data analysis
     - Machine Learning
